@@ -1,4 +1,4 @@
-# German TV Channels Playlist
+# German TV Channels Playlist 1.
 
 This is an .m3u file containing a list of the most important German television channels. You can use this playlist by copying the following link into your IPTV player:
 
