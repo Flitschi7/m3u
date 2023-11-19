@@ -2,7 +2,7 @@
 
 This is an .m3u file containing a list of the most important German television channels. You can use this playlist by copying the following link into your IPTV player:
 
-[Download](https://flitschi7.github.io/m3u/Favorites.m3u)
+[Download](https://github.com/Flitschi7/flitschi7.github.io)
 
 ## How to Use
 1. Copy the provided link.
